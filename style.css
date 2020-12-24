@@ -1,4 +1,9 @@
  /*CSS file style.css*/
+ @font-face {
+    font-family: 'test';
+    url: src('test.otf');
+    }
+    
  body 
  {background-color: #dff3e3;
  text-align: left;}
