@@ -1,0 +1,17 @@
+ /*CSS file style.css*/
+ body 
+ {background-color: #dff3e3;
+ text-align: left;}
+.about 
+ {color: #dff3e3;
+
+ margin-top: 45px;
+ font-size: 30px;
+ width: 550px;
+ height: 105px;
+ padding: 15px 30px;
+ margin: 25px;
+ text-align: center;
+ background-color: #d68060;}
+ 
+ 
