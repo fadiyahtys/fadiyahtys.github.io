@@ -7,12 +7,12 @@
  body 
  {background-color: #dff3e3;
  text-align: left;}
-h2
+.about
  { 
      color: #dff3e3;
  margin-top: 20%;
  font-size: 175%;
- width: 35%;
+ width: 52%;
  height: 10%;
  padding-left: 2%;
  padding-right: 2%;
@@ -24,14 +24,14 @@ h2
  text-align: center;}
 
  .teks
- {margin-left: 12% ;}
+ {margin-left: 8% ;}
 
  h4
- {margin-left: 12%;}
+ {margin-left: 8%;}
 
  .pembuka
  {margin-top: 5%;
-     margin-left: 12%;}
+     margin-left: 10%;}
 
  
  
