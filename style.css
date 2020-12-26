@@ -1,18 +1,20 @@
  /*CSS file style.css*/
- @font-face {
-    font-family: 'test';
-    url: src('test.otf');
-    }
-    
- body 
- {background-color: #dff3e3;
- text-align: left;}
+
+@font-face { 
+    src:url('soopafre.ttf');
+    font-family: soopafre;
+ 
+}
+@font-face {
+    src:url('pointfree.ttf');
+    font-family: pointfree;
+}
 .about
  { 
      color: #dff3e3;
  margin-top: 20%;
  font-size: 175%;
- width: 52%;
+ width: 57%;
  height: 10%;
  padding-left: 2%;
  padding-right: 2%;
@@ -21,17 +23,21 @@
  margin-top: 3%;
  margin-left: 25%;
  background-color: #d68060;
- text-align: center;}
+ text-align: center;
+ font-family: soopafre;}
 
  .teks
- {margin-left: 5% ;}
+ {margin-left: 5% ;
+font-family: pointfree;}
 
  h4
- {margin-left: 5%;}
+ {margin-left: 5%;
+    font-family: pointfree}
 
  .pembuka
  {margin-top: 5%;
-     margin-left: 5%;}
+     margin-left: 5%;
+     font-family: pointfree}
 .img 
 {margin-top: 5%;
 margin-left: 8% ;}
